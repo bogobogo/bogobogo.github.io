@@ -62,11 +62,12 @@ If someone is really good and he studied with the same teacher since the start o
 People will probably write about who their most recent teachers are, but that is less interesting since these can be of the “Here are many different versions of B” type. What you really want to know is who did they study with in their early teens. Once you find out - contact them and ask to take a lesson. Good teachers have been around for a while so they know who the other good teachers are. Even if a teacher won’t accept you, they might be able to recommend you to someone else, and it is unlikely they would recommend someone who isn’t good. They have been in the industry for long enough to know who is bad but unless you are very powerful, the price of saying it publicly is just too high<sup>4</sup> 
   
 
-    
+<br></br>
 
 Teaching is the readiest and safest source of revenue for musicians. Unless one is  playing in a very good orchestra ensemble or is a world class soloist, one simply has to teach to make a living solely from music. So it should not come as a surprise that you are likely to study with someone who isn’t very good at it. If music is important in your life, you owe it to yourself to invest the time and effort to find the best teacher possible to suit your goals.
   
-  
+<br></br>  
+<br></br>
  
  
 * * * *
