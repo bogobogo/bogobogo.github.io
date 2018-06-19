@@ -7,7 +7,8 @@ categories: music learning
 Many music students I know are not happy with their teacher. This is very unfortunate since the teacher is the most important figure in the development of a classical musician. The relationship usually lasts for years and the person you choose to study with can propel or hinder your professional development, so the importance of making the right choice cannot be overstated. 
 I’ve noticed some thinking patterns that can lead to a choice that may not be right for you and decided to write them down, hoping that you might find them useful. 
 
-False signs
+### False signs
+
 Students want to study with great performers. But being an excellent performer does not automatically mean that one is a good teacher. A good teacher must be able to identify what is stopping his students and know how to help them move toward greatness, technically as well as musically, and this requires a different skillset than playing well yourself. What works well for that musician may not be right for his/her students. 
 
 How well their students play is also not automatically an accurate predictor and needs to be carefully assessed.
@@ -18,7 +19,8 @@ Also, some teachers are good for only a certain type of students. This most comm
 
 This is especially risky since players who were prodigies are often famous, and students want to study with famous musicians.
 
-Karate Kid
+### Karate Kid
+
 Most students are not at a stage where they have mastered their technique and are looking for teachers who can help them get better both technically and musically. One of the most common ways teachers handle new ambitious students is by going through a training phase where pieces are neglected in favour of scales and etudes. Ambitious students are more than willing to go through this phase - you feel like the kid from the “Karate Kid” movie, painting the fence on your way to become a master. Since students going through this phase don’t expect to get better in the short term, teachers who don’t know what they are doing can get away with faking it for a very long time.
 
 Which leads us to another surprise: asking the students about their teacher is also not an accurate predictor. 
