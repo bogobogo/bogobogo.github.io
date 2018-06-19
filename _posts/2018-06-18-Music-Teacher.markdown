@@ -7,7 +7,7 @@ categories: music learning
 Many music students I know are not happy with their teacher. This is very unfortunate since the teacher is the most important figure in the development of a classical musician. The relationship usually lasts for years and the person you choose to study with can propel or hinder your professional development, so the importance of making the right choice cannot be overstated. 
 I’ve noticed some thinking patterns that can lead to a choice that may not be right for you and decided to write them down, hoping that you might find them useful. 
 
-### False signs
+##### False signs
 
 Students want to study with great performers. But being an excellent performer does not automatically mean that one is a good teacher. A good teacher must be able to identify what is stopping his students and know how to help them move toward greatness, technically as well as musically, and this requires a different skillset than playing well yourself. What works well for that musician may not be right for his/her students. 
 
@@ -19,7 +19,7 @@ Also, some teachers are good for only a certain type of students. This most comm
 
 This is especially risky since players who were prodigies are often famous, and students want to study with famous musicians.
 
-### Karate Kid
+#### Karate Kid
 
 Most students are not at a stage where they have mastered their technique and are looking for teachers who can help them get better both technically and musically. One of the most common ways teachers handle new ambitious students is by going through a training phase where pieces are neglected in favour of scales and etudes. Ambitious students are more than willing to go through this phase - you feel like the kid from the “Karate Kid” movie, painting the fence on your way to become a master. Since students going through this phase don’t expect to get better in the short term, teachers who don’t know what they are doing can get away with faking it for a very long time.
 
@@ -30,7 +30,7 @@ Charismatic teachers can make students feel like they are improving even if they
 
 Thinking about what is unique about each student and trying to foster the student’s own style takes a lot of effort. In fact, a class of students where every student plays well - yet in a different style - is one of the best signs of a very good teacher. 
 
-### Counterintuitive
+#### Counterintuitive
 it’s no wonder many students regret their choice. If a teacher plays well, his students play well, and his students say he is a good teacher, you would naturally assume he is good for you. But that’s not always the case. 
 
 If those are not reliable criteria , what is?
@@ -40,7 +40,7 @@ As a start, when you are considering a new teacher, find out first hand how they
 
 The right things?
 
-### Lead measures
+#### Lead measures
 
 Good teachers are surprisingly good. I had a masterclass where within thirty minutes I figured out things I couldn’t figure out before in 10 lessons or more. To this day the few lessons I had with that particular teacher <sup>2</sup> resonate with how I play. How did she do it? How do good teachers generally do it? 
 
@@ -51,7 +51,7 @@ Changing what you focus on while you play in a way that makes a substantial diff
 Noticing details that other teachers haven't noticed ( e.g “Of Course you can’t make that passage when your left thumb is so stiff.”) 
 Making you see the music in a new light. 
 
-### Lag measures
+#### Lag measures
 
 What we really want to know is how much students improve when studying with a particular teacher over a period of time. Waiting and gathering this information requires years of data so it can be tricky, but there are some hacks. 
 
