@@ -24,7 +24,8 @@ This is especially risky since players who were prodigies are often famous, and 
 
 Most students are not at a stage where they have mastered their technique and are looking for teachers who can help them get better both technically and musically. One of the most common ways teachers handle new ambitious students is by going through a training phase where pieces are neglected in favour of scales and etudes. Ambitious students are more than willing to go through this phase - you feel like the kid from the “Karate Kid” movie, painting the fence on your way to become a master. Since students going through this phase don’t expect to get better in the short term, teachers who don’t know what they are doing can get away with faking it for a very long time.
 
-Which leads us to another surprise: asking the students about their teacher is also not an accurate predictor. 
+Which leads us to another surprise: 
+Asking the students about their teacher is also not an accurate predictor. 
 
 Students at this phase don’t always know if they are making progress, but they like to believe that they are, so they say so. This can get to an extreme level:  
 Charismatic teachers can make students feel like they are improving even if they aren’t. I am still not sure how that happens, but here is my best guess: Teachers tend to make their students play like they do, even when it doesn’t suit them<sup>1</sup>. Students try to emulate the teacher and their improvement masks the fact that it used to be better before they went on this pointless mission. Things that used to be easy and happen without thinking about them are now tough and don’t flow as naturally. By the time the student realizes it - if he does at all - months and sometimes years have passed. 
