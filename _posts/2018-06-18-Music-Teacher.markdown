@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Choosing a Music Teachers"
+title:  "Choosing a Music Teacher"
 date:   2018-06-18 12:38:46 -0400
 categories: music learning
 ---
