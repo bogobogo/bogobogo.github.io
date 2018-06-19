@@ -7,7 +7,7 @@ categories: music learning
 Many music students I know are not happy with their teacher. This is very unfortunate since the teacher is the most important figure in the development of a classical musician. The relationship usually lasts for years and the person you choose to study with can propel or hinder your professional development, so the importance of making the right choice cannot be overstated. 
 I’ve noticed some thinking patterns that can lead to a choice that may not be right for you and decided to write them down, hoping that you might find them useful. 
 
-##### False signs
+#### False signs
 
 Students want to study with great performers. But being an excellent performer does not automatically mean that one is a good teacher. A good teacher must be able to identify what is stopping his students and know how to help them move toward greatness, technically as well as musically, and this requires a different skillset than playing well yourself. What works well for that musician may not be right for his/her students. 
 
