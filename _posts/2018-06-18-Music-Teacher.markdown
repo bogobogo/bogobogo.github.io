@@ -70,7 +70,7 @@ Teaching is the readiest and safest source of revenue for musicians. Unless one 
  
  
 * * * *
-
+<br>
 
 <sup>1</sup> A friend of mine once said about a teacher: “I know he is considered to be good but I don’t like his style and I am afraid that he will convince me that I do”.
 
