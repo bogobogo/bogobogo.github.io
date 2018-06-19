@@ -59,14 +59,17 @@ What we really want to know is how much students improve when studying with a pa
 
 If someone is really good and he studied with the same teacher since the start or for many years - you know that he got there thanks to that teacher. Also, Youtube and the web are at your service. Competition results and concert hall brochures are public and resumes often include a list of teachers. 
 
-People will probably write about who their most recent teachers are, but that is less interesting since these can be of the “Here are many different versions of B” type. What you really want to know is who did they study with in their early teens. Once you find out - contact them and ask to take a lesson. Good teachers have been around for a while so they know who the other good teachers are. Even if a teacher won’t accept you, they might be able to recommend you to someone else, and it is unlikely they would recommend someone who isn’t good. They have been in the industry for long enough to know who is bad but unless you are very powerful, the price of saying it publicly is just too high<sup>4</sup> </br>
-</br>
+People will probably write about who their most recent teachers are, but that is less interesting since these can be of the “Here are many different versions of B” type. What you really want to know is who did they study with in their early teens. Once you find out - contact them and ask to take a lesson. Good teachers have been around for a while so they know who the other good teachers are. Even if a teacher won’t accept you, they might be able to recommend you to someone else, and it is unlikely they would recommend someone who isn’t good. They have been in the industry for long enough to know who is bad but unless you are very powerful, the price of saying it publicly is just too high<sup>4</sup> 
+  
 
-Teaching is the readiest and safest source of revenue for musicians. Unless one is  playing in a very good orchestra ensemble or is a world class soloist, one simply has to teach to make a living solely from music. So it should not come as a surprise that you are likely to study with someone who isn’t very good at it. If music is important in your life, you owe it to yourself to invest the time and effort to find the best teacher possible to suit your goals.    </br>  
-</br>
-</br>
-</br>
-****
+    
+
+Teaching is the readiest and safest source of revenue for musicians. Unless one is  playing in a very good orchestra ensemble or is a world class soloist, one simply has to teach to make a living solely from music. So it should not come as a surprise that you are likely to study with someone who isn’t very good at it. If music is important in your life, you owe it to yourself to invest the time and effort to find the best teacher possible to suit your goals.
+  
+  
+ 
+ 
+* * * *
 
 
 <sup>1</sup> A friend of mine once said about a teacher: “I know he is considered to be good but I don’t like his style and I am afraid that he will convince me that I do”.
