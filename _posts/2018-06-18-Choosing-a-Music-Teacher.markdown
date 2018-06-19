@@ -33,7 +33,7 @@ Charismatic teachers can make students feel like they are improving even if they
 Thinking about what is unique about each student and trying to foster the student’s own style takes a lot of effort. In fact, a class of students where every student plays well - yet in a different style - is one of the best signs of a very good teacher. 
 
 #### Counterintuitive
-it’s no wonder many students regret their choice. If a teacher plays well, his students play well, and his students say he is a good teacher, you would naturally assume he is good for you. But that’s not always the case. 
+It’s no wonder many students regret their choice. If a teacher plays well, his students play well, and his students say he is a good teacher, you would naturally assume he is good for you. But that’s not always the case. 
 
 If those are not reliable criteria, what is?
 
