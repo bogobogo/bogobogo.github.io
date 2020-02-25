@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
+import createDateString from '../utils/createDateString';
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -36,16 +36,10 @@ class BlogPostTemplate extends React.Component {
                 marginBottom: rhythm(1),
               }}
             >
-              {post.frontmatter.date}
+              {createDateString(post.frontmatter.date)}
             </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <Signup/>
-          <hr
-            style={{
-              marginBottom: rhythm(1),
-            }}
-          />
           <footer>
             <Bio />
           </footer>
@@ -97,7 +91,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date
         description
       }
     }

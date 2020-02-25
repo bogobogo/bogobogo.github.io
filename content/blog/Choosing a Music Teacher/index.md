@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Choosing a Music Teacher"
-date:   2018-06-18 12:38:46 -0400
-description: Thoughts on an important decision.
+date:   1529280000000
+description: ' '
+order: 1
 categories: music learning
 ---
 Many music students I know are not happy with their teacher. This is very unfortunate since the teacher is the most important figure in the development of a classical musician. The relationship usually lasts for years and the person you choose to study with can propel or hinder your professional development, so the importance of making the right choice cannot be overstated.
