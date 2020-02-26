@@ -8,7 +8,7 @@ categories: learning programming media
 
 Codio Format is an open source media format for developers to record and replay the process of programming. It combines operations on a code editor and audio<sup>1</sup>.
 
-You can record a Codio by running the “Record Codio” command inside your IDE, programming like you normally would and then running “Save Codio”. This will create a codio file that includes the operations you have done on that IDE, such as inserting text and moving between files, and your audio recording.
+You can record a Codio by running the “Record Codio” command inside your IDE, programming like you normally would and then running “Save Codio”. This will create a codio file that includes the operations you have done on that IDE, like inserting text and moving between files, and your audio recording.
 
 You can then play that Codio inside another IDE. That would replay the actions you have done inside your IDE in sync with the audio recording
 
