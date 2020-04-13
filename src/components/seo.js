@@ -66,6 +66,10 @@ function SEO({ description, lang, meta, title, thumbnail }) {
           content: site.siteMetadata.author,
         },
         {
+          name: `twitter:site`,
+          content: '@eladbogo',
+        },
+        {
           name: `twitter:title`,
           content: title,
         },
