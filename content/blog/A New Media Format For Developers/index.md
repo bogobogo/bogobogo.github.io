@@ -4,7 +4,7 @@ title:  "A New Media Format For Developers"
 date:   1582651087658
 description: ' '
 categories: learning programming media
-thumbnail: './codio.png'
+thumbnail: './codio2.png'
 ---
 
 Codio Format is an open source media format for developers to record and playback the process of programming. It combines code editor operations and audio<sup>1</sup>.
