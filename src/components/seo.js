@@ -27,11 +27,7 @@ function SEO({ description, lang, meta, title, thumbnail }) {
 
   const metaDescription = description || site.siteMetadata.description
   const imageSrc = thumbnail && thumbnail.childImageSharp.sizes.src;
-  let origin = "";
-  if (typeof window !== "undefined") {
-    origin = window.location.origin;
-  }
-  const image = origin + imageSrc;
+  const image = site.siteMetadata.siteUrl + imageSrc;
 
   return (
     <Helmet
