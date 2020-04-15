@@ -58,6 +58,10 @@ function SEO({ description, lang, meta, title, thumbnail }) {
           content: image,
         },
         {
+          property: `image`,
+          content: image,
+        },
+        {
           property: `og:image:width`,
           content: "984",
         },
