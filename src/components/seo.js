@@ -54,6 +54,18 @@ function SEO({ description, lang, meta, title, thumbnail }) {
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          content: image,
+        },
+        {
+          property: `og:image:width`,
+          content: "984",
+        },
+        {
+          property: `og:image:height`,
+          content: "492",
+        },
+        {
           property: `og:type`,
           content: `website`,
         },
